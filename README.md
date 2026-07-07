@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1757-recyclable-and-low-fat-products) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
