@@ -1,13 +1,11 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        a=[]
-        for i in range(len(nums)):
-            for j in range(i+1,len(nums)):
-                if (nums[i]+nums[j]==target):
-                    a.append(i)
-                    a.append(j)
-                    break
-        return a
-
-
-        
+        num_map={}
+        n=len(nums)
+        for i,num in enumerate(nums):
+            compliment=target-num
+            if compliment in num_map:
+                temp= [i,num_map[compliment]]
+                temp.sort()
+                return temp
+            num_map[num]=i
