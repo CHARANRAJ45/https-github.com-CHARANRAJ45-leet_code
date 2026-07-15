@@ -25,17 +25,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0268-missing-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
