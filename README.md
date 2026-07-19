@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0268-missing-number) |
+| [0330-patching-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0330-patching-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0845-longest-mountain-in-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0977-squares-of-a-sorted-array) |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0209-minimum-size-subarray-sum) |
+## Greedy
+|  |
+| ------- |
+| [0330-patching-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0330-patching-array) |
 <!---LeetCode Topics End-->
