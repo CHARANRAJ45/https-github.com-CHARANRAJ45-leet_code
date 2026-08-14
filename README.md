@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0268-missing-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1266-minimum-time-visiting-all-points) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0217-contains-duplicate) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0189-rotate-array) |
 | [0845-longest-mountain-in-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0977-squares-of-a-sorted-array) |
 ## Enumeration
