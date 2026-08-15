@@ -1,6 +1,6 @@
 class Solution(object):
     def missingNumber(self, nums):
         n=len(nums)
-        e_s=n*(n+1)//2
-        s=sum(nums)
-        return e_s-s
+        for i in range(0,n+1):
+            if i not in nums:
+                return i
