@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0283-move-zeroes) |
 | [0330-patching-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0330-patching-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0525-contiguous-array) |
 | [0845-longest-mountain-in-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0977-squares-of-a-sorted-array) |
