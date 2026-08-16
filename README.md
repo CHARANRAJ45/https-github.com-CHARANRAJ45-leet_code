@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0054-spiral-matrix) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0704-binary-search) |
