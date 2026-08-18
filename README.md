@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0283-move-zeroes) |
 | [0845-longest-mountain-in-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0845-longest-mountain-in-array) |
+| [0876-middle-of-the-linked-list](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Enumeration
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
