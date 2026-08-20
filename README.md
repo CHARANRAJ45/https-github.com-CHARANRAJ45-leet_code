@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1929-concatenation-of-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Depth-First Search
 |  |
 | ------- |
