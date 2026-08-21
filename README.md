@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0268-missing-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1266-minimum-time-visiting-all-points) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0268-missing-number) |
 ## Counting Sort
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0231-power-of-two) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
