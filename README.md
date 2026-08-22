@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0845-longest-mountain-in-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0845-longest-mountain-in-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0022-generate-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -232,5 +234,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0078-subsets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
