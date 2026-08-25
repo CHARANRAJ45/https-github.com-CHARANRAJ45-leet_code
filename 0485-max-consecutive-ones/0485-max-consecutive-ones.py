@@ -3,10 +3,10 @@ class Solution:
         c=0
         a=0
         for n in nums:
-            if n==1:
-                c+=1
-            else:
+            if n==0:
                 c=0
+            else:
+                c+=1
             a = max(a,c)
         return a
         
