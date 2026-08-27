@@ -248,4 +248,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0022-generate-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
