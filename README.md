@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0330-patching-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0704-binary-search) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0232-implement-queue-using-stacks) |
+| [0503-next-greater-element-ii](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
