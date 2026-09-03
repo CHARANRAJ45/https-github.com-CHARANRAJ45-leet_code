@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0022-generate-parentheses) |
 ## Divide and Conquer
 |  |
@@ -252,10 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0022-generate-parentheses) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0232-implement-queue-using-stacks) |
