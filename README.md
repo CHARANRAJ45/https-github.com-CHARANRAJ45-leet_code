@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0330-patching-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0330-patching-array) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## String
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0735-asteroid-collision) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1441-build-an-array-with-stack-operations) |
 ## Design
 |  |
