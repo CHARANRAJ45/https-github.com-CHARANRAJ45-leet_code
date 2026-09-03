@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0209-minimum-size-subarray-sum) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0152-maximum-product-subarray) |
 | [0845-longest-mountain-in-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0845-longest-mountain-in-array) |
 ## Two Pointers
 |  |
