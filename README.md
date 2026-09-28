@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Enumeration
 |  |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1768-merge-strings-alternately](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
 | ------- |
