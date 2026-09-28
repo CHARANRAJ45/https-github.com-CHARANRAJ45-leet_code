@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0268-missing-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1266-minimum-time-visiting-all-points) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
@@ -290,4 +292,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0503-next-greater-element-ii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
