@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1929-concatenation-of-array) |
@@ -210,12 +211,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0904-fruit-into-baskets) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0560-subarray-sum-equals-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
 |  |
 | ------- |
