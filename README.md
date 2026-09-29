@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0735-asteroid-collision) |
 | [0845-longest-mountain-in-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0845-longest-mountain-in-array) |
+| [0904-fruit-into-baskets](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1266-minimum-time-visiting-all-points) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0219-contains-duplicate-ii) |
+| [0904-fruit-into-baskets](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
