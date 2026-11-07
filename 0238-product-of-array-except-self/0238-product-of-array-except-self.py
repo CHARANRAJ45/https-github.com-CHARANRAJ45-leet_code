@@ -4,14 +4,13 @@ class Solution:
         res=[0]*n
 
         pre = 1
-        for i in range(n):
+        for i in range(0,n):
             res[i] = pre
-            pre *=nums[i]
+            pre*=nums[i]
         suf=1
         for i in range(n-1,-1,-1):
             res[i]*=suf
             suf*=nums[i]
         return res
-
 
         
