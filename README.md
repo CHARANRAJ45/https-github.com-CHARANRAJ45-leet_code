@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0189-rotate-array) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0125-valid-palindrome) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/1768-merge-strings-alternately) |
