@@ -4,6 +4,7 @@ class MyQueue:
         self.set1=[]
         self.set2=[]
 
+
     def push(self, x: int) -> None:
         while self.set1:
             self.set2.append(self.set1.pop())
@@ -15,12 +16,13 @@ class MyQueue:
     def pop(self) -> int:
         return self.set1.pop()
 
+
     def peek(self) -> int:
         return self.set1[-1]
 
     def empty(self) -> bool:
-        return len(self.set1) == 0
-
+        return len(self.set1)==0
+            
 
 # Your MyQueue object will be instantiated and called as such:
 # obj = MyQueue()
