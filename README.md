@@ -174,10 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
@@ -327,4 +329,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0455-assign-cookies) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
