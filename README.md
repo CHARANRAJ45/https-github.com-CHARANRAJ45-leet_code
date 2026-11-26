@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0200-number-of-islands) |
+| [0543-diameter-of-binary-tree](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -333,8 +334,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/CHARANRAJ45/https-github.com-CHARANRAJ45-leet_code/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
